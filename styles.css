@@ -1,0 +1,36 @@
+*{
+    background-image: linear-gradient(to left, rgb(184, 179, 179), grey);
+    font-family: 'PoppinsBold' , serif;
+   
+}
+
+@font-face {
+    font-family: 'PoppinsBold';
+    src: url(fonts/Poppins-Medium.ttf)
+}
+
+p{
+    padding-left: 2.5%;
+    padding-right: 20%;
+}
+
+h2{
+    padding-left: 1.2%;
+    background-image: grey
+}
+.img1{
+    padding: 2.5%;
+}
+
+a{
+   color: rgb(95, 87, 14);
+}
+
+iframe{
+    padding: 1.9%;
+}
+
+.end{
+    font-size: 12px;
+    padding: 3%;
+}
